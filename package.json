@@ -1,0 +1,27 @@
+{
+  "name": "cuisine-calendar-web",
+  "version": "0.0.1",
+  "description": "Web interface for Cuisine Calendar",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lynshi/cuisine-calendar-web.git"
+  },
+  "author": "Lyndon Shi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lynshi/cuisine-calendar-web/issues"
+  },
+  "homepage": "https://github.com/lynshi/cuisine-calendar-web#readme",
+  "dependencies": {
+    "antd": "^4.0.2",
+    "next": "^9.3.0",
+    "react": "^16.13.0",
+    "react-dom": "^16.13.0"
+  }
+}
