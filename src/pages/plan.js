@@ -1,9 +1,9 @@
-import Layout from '../components/Layout';
+import LoggedInLayout from '../components/LoggedInLayout';
 
 export default function Plan() {
     return (
-        <Layout>
+        <LoggedInLayout>
             <p>Calendar</p>
-        </Layout>
+        </LoggedInLayout>
     );
 }

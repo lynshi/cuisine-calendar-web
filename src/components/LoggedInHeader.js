@@ -4,7 +4,7 @@ const linkStyle = {
     marginRight: 15
 };
 
-const Header = () => (
+const LoggedInHeader = () => (
     <div>
         <Link href="/day">
             <a style={linkStyle}>Today</a>
@@ -18,4 +18,4 @@ const Header = () => (
     </div>
 );
 
-export default Header;
+export default LoggedInHeader;

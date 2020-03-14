@@ -1,9 +1,9 @@
-import Layout from '../components/Layout';
+import LoggedInLayout from '../components/LoggedInLayout';
 
 export default function Day() {
     return (
-        <Layout>
+        <LoggedInLayout>
             <p>Daily Summary</p>
-        </Layout>
+        </LoggedInLayout>
     );
 }

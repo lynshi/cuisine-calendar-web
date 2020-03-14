@@ -1,9 +1,9 @@
-import Layout from '../components/Layout';
+import LoggedInLayout from '../components/LoggedInLayout';
 
 export default function Recipes() {
     return (
-        <Layout>
+        <LoggedInLayout>
             <p>Here are your recipes.</p>
-        </Layout>
+        </LoggedInLayout>
     );
 }
