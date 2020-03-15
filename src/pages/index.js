@@ -1,7 +1,7 @@
+import MenuTab from '../components/Navigation/MenuTab';
+
 export default function Index() {
     return (
-        <div>
-            <p>Welcome to Cuisine Calendar</p>
-        </div>
+        <MenuTab />
     );
 }
