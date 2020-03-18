@@ -1,0 +1,22 @@
+/**
+ * Menu tab background colors.  
+ **/
+.homeTab_background {
+    background-color: #DB9D47 !important;
+    color: inherit !important;
+}
+
+.planTab_background {
+    background-color: #FF784F !important;
+    color: inherit !important;
+}
+
+.recipeTab_background {
+    background-color: #FFE19C !important;
+    color: inherit !important;
+}
+
+.addTab_background {
+    background-color: #EDFFD9 !important;
+    color: inherit !important;
+}

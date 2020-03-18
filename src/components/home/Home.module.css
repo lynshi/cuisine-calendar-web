@@ -1,0 +1,7 @@
+.body {
+    position: absolute;
+    top: 40px;
+    bottom: 20px; 
+    width: 100%;
+    background-color: #DB9D47;
+}
